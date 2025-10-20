@@ -31,6 +31,7 @@ export default function Index() {
         className="absolute w-full z-0"
         resizeMode="cover"
       />
+      
       <ScrollView
         className="flex-1 px-5"
         showsVerticalScrollIndicator={false}
